@@ -1,0 +1,14 @@
+name: Prison_Final_Proj
+title: Prison_Final_Proj
+username:
+account: carolinebehrens
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4083402
+bundleId: 4562017
+url: https://carolinebehrens.shinyapps.io/Prison_Final_Proj/
+when: 1620245136.09342
+lastSyncTime: 1620245136.09344
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
